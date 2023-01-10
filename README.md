@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![DesktopView Screenshot](./website.png)
-![MobileView Screenshot](./mobile.png)
+![DesktopView Screenshot](../assets/images/mobile.png)
+![MobileView Screenshot](../mobile.png)
 
 ### Links
 
