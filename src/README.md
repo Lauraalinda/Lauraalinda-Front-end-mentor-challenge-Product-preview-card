@@ -22,7 +22,7 @@ Users should be able to:
 ### Screenshot
 
 ![DesktopView Screenshot](./website.png)
-![MobileView Screenshot](./mobile.png)
+![MobileView Screenshot](src/assets/images/mobile.png)
 
 ### Links
 
